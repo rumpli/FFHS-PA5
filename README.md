@@ -53,10 +53,10 @@ FFHS projects: [GitHub](https://github.com/rumpli?tab=repositories&q=FFHS&type=&
 	<tbody>
 		<tr>
             <td align="center">
-                <a href="https://github.com/rumpli">
-                    <img src="https://avatars.githubusercontent.com/u/24840091?v=4" width="100;" alt="rumpli"/>
+                <a href="https://github.com/alexblaeuer">
+                    <img src="https://avatars.githubusercontent.com/u/11502742?v=4" width="100;" alt="alexblaeuer"/>
                     <br />
-                    <sub><b>Yannick Englert</b></sub>
+                    <sub><b>Alex Bläuer</b></sub>
                 </a>
             </td>
 		</tr>
