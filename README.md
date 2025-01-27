@@ -49,6 +49,19 @@ FFHS projects: [GitHub](https://github.com/rumpli?tab=repositories&q=FFHS&type=&
 ## Contributors
 
 <!-- readme: collaborators,contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/rumpli">
+                    <img src="https://avatars.githubusercontent.com/u/24840091?v=4" width="100;" alt="rumpli"/>
+                    <br />
+                    <sub><b>Yannick Englert</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: collaborators,contributors -end -->
 
 # Online Demo
