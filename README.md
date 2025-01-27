@@ -48,7 +48,7 @@ FFHS projects: [GitHub](https://github.com/rumpli?tab=repositories&q=FFHS&type=&
 
 ## Contributors
 
-<!-- readme: collaborators,contributors,<alexblaeuer>,<rumpli>/- -start -->
+<!-- readme: collaborators,contributors,alexblaeuer,rumpli/- -start -->
 <table>
 	<tbody>
 		<tr>
@@ -62,7 +62,7 @@ FFHS projects: [GitHub](https://github.com/rumpli?tab=repositories&q=FFHS&type=&
 		</tr>
 	<tbody>
 </table>
-<!-- readme: collaborators,contributors -end -->
+<!-- readme: collaborators,contributors,alexblaeuer,rumpli/- -end -->
 
 # Online Demo
 
