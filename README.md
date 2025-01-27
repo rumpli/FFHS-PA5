@@ -46,6 +46,10 @@ FFHS directory: [MyCloud](https://www.mycloud.ch/s/S00735653476C6FF89DAE1C9D6F19
 
 FFHS projects: [GitHub](https://github.com/rumpli?tab=repositories&q=FFHS&type=&language=&sort=)
 
+## Contributors
+
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
 
 # Online Demo
 
