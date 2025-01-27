@@ -1,0 +1,12 @@
+ch.quizinno.brainquest
+ch.quizinno.brainquest.configs
+ch.quizinno.brainquest.controllers
+ch.quizinno.brainquest.dtos
+ch.quizinno.brainquest.entities
+ch.quizinno.brainquest.enums
+ch.quizinno.brainquest.filters
+ch.quizinno.brainquest.mappers
+ch.quizinno.brainquest.repositories
+ch.quizinno.brainquest.services
+ch.quizinno.brainquest.shells
+ch.quizinno.brainquest.utils
