@@ -21,19 +21,19 @@ Table of Contents
 This project is the project work from the "Projektarbeit 5" module at the FFHS (HS24/25). The backend was written in Java with Spring Boot. The frontend was written in Typescript with React/Expo framework. Postgresql was used as database.
 
 #### Grades
-- Endgrade: 4.7
-- - Documentation (60%):
-- - - PMG: N/A
-- - - SWE: N/A
-- - - OOP: N/A
-- - Presentation (10%):
-- - - PMG: N/A
-- - - SWE: N/A
-- - - OOP: N/A
-- - Expert discussion (30%):
-- - - PMG: N/A
-- - - SWE: N/A
-- - - OOP: N/A
+Endgrade: 4.7
+- Documentation (60%):
+- - PMG: N/A
+- - SWE: N/A
+- - OOP: N/A
+- Presentation (10%):
+- - PMG: N/A
+- - SWE: N/A
+- - OOP: N/A
+- Expert discussion (30%):
+- - PMG: N/A
+- - SWE: N/A
+- - OOP: N/A
 
 ### More FFHS projects
 
